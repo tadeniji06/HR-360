@@ -1,0 +1,1 @@
+export const apiUrl = "https://m360-hr-api.onrender.com/api";
